@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Google Chrome (no security)
+GenericName=Web Browser
+Comment=DASH Utilities
+Exec=/usr/bin/google-chrome-stable --disable-web-security http://localhost/
+Terminal=false
+Icon=google-chrome
+Type=Application
+Categories=Network;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml_xml;image/webp;x-scheme-handler/http;x-scheme-handler/https;x-scheme-handler/ftp;
+
